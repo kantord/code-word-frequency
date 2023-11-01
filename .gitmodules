@@ -1,0 +1,177 @@
+[submodule "repos/react"]
+	path = repos/react
+	url = https://github.com/facebook/react.git
+[submodule "repos/node"]
+	path = repos/node
+	url = https://github.com/nodejs/node.git
+[submodule "repos/axios"]
+	path = repos/axios
+	url = https://github.com/axios/axios.git
+[submodule "repos/express"]
+	path = repos/express
+	url = https://github.com/expressjs/express.git
+[submodule "repos/electron"]
+	path = repos/electron
+	url = https://github.com/electron/electron.git
+[submodule "repos/TypeScript"]
+	path = repos/TypeScript
+	url = https://github.com/microsoft/TypeScript.git
+[submodule "repos/nest"]
+	path = repos/nest
+	url = https://github.com/nestjs/nest.git
+[submodule "repos/rxjs"]
+	path = repos/rxjs
+	url = https://github.com/ReactiveX/rxjs.git
+[submodule "repos/angular"]
+	path = repos/angular
+	url = https://github.com/angular/angular.git
+[submodule "repos/ionic-framework"]
+	path = repos/ionic-framework
+	url = https://github.com/ionic-team/ionic-framework.git
+[submodule "repos/pandas"]
+	path = repos/pandas
+	url = https://github.com/pandas-dev/pandas.git
+[submodule "repos/tensorflow"]
+	path = repos/tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
+[submodule "repos/django"]
+	path = repos/django
+	url = https://github.com/django/django.git
+[submodule "repos/scikit-learn"]
+	path = repos/scikit-learn
+	url = https://github.com/scikit-learn/scikit-learn.git
+[submodule "repos/numpy"]
+	path = repos/numpy
+	url = https://github.com/numpy/numpy.git
+[submodule "repos/java-design-patterns"]
+	path = repos/java-design-patterns
+	url = https://github.com/iluwatar/java-design-patterns.git
+[submodule "repos/spring-boot"]
+	path = repos/spring-boot
+	url = https://github.com/spring-projects/spring-boot.git
+[submodule "repos/elasticsearch"]
+	path = repos/elasticsearch
+	url = https://github.com/elasticsearch/elasticsearch.git
+[submodule "repos/kafka"]
+	path = repos/kafka
+	url = https://github.com/apache/kafka.git
+[submodule "repos/generator-jhipster"]
+	path = repos/generator-jhipster
+	url = https://github.com/jhipster/generator-jhipster.git
+[submodule "repos/go"]
+	path = repos/go
+	url = https://github.com/golang/go.git
+[submodule "repos/kubernetes"]
+	path = repos/kubernetes
+	url = https://github.com/kubernetes/kubernetes.git
+[submodule "repos/moby"]
+	path = repos/moby
+	url = https://github.com/moby/moby.git
+[submodule "repos/go-ethereum"]
+	path = repos/go-ethereum
+	url = https://github.com/ethereum/go-ethereum.git
+[submodule "repos/gin"]
+	path = repos/gin
+	url = https://github.com/gin-gonic/gin.git
+[submodule "repos/rust"]
+	path = repos/rust
+	url = https://github.com/rust-lang/rust.git
+[submodule "repos/tokio"]
+	path = repos/tokio
+	url = https://github.com/tokio-rs/tokio.git
+[submodule "repos/cargo"]
+	path = repos/cargo
+	url = https://github.com/rust-lang/cargo.git
+[submodule "repos/Rocket"]
+	path = repos/Rocket
+	url = https://github.com/SergioBenitez/Rocket.git
+[submodule "repos/clap"]
+	path = repos/clap
+	url = https://github.com/clap-rs/clap.git
+[submodule "repos/terminal"]
+	path = repos/terminal
+	url = https://github.com/microsoft/terminal.git
+[submodule "repos/folly"]
+	path = repos/folly
+	url = https://github.com/facebook/folly.git
+[submodule "repos/cppwinrt"]
+	path = repos/cppwinrt
+	url = https://github.com/microsoft/cppwinrt.git
+[submodule "repos/protobuf"]
+	path = repos/protobuf
+	url = https://github.com/google/protobuf.git
+[submodule "repos/linux"]
+	path = repos/linux
+	url = https://github.com/torvalds/linux.git
+[submodule "repos/redis"]
+	path = repos/redis
+	url = https://github.com/redis/redis.git
+[submodule "repos/openssl"]
+	path = repos/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "repos/git"]
+	path = repos/git
+	url = https://github.com/git/git.git
+[submodule "repos/zsh"]
+	path = repos/zsh
+	url = https://github.com/zsh-users/zsh.git
+[submodule "repos/rails"]
+	path = repos/rails
+	url = https://github.com/rails/rails.git
+[submodule "repos/jekyll"]
+	path = repos/jekyll
+	url = https://github.com/jekyll/jekyll.git
+[submodule "repos/discourse"]
+	path = repos/discourse
+	url = https://github.com/discourse/discourse.git
+[submodule "repos/home-assistant"]
+	path = repos/home-assistant
+	url = https://github.com/home-assistant/home-assistant.git
+[submodule "repos/metasploit-framework"]
+	path = repos/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "repos/swift"]
+	path = repos/swift
+	url = https://github.com/apple/swift.git
+[submodule "repos/SwiftyJSON"]
+	path = repos/SwiftyJSON
+	url = https://github.com/SwiftyJSON/SwiftyJSON.git
+[submodule "repos/RxSwift"]
+	path = repos/RxSwift
+	url = https://github.com/ReactiveX/RxSwift.git
+[submodule "repos/vapor"]
+	path = repos/vapor
+	url = https://github.com/vapor/vapor.git
+[submodule "repos/Perfect"]
+	path = repos/Perfect
+	url = https://github.com/PerfectlySoft/Perfect.git
+[submodule "repos/laravel"]
+	path = repos/laravel
+	url = https://github.com/laravel/laravel.git
+[submodule "repos/symfony"]
+	path = repos/symfony
+	url = https://github.com/symfony/symfony.git
+[submodule "repos/WordPress"]
+	path = repos/WordPress
+	url = https://github.com/WordPress/WordPress.git
+[submodule "repos/Faker"]
+	path = repos/Faker
+	url = https://github.com/fzaninotto/Faker.git
+[submodule "repos/CodeIgniter"]
+	path = repos/CodeIgniter
+	url = https://github.com/bcit-ci/CodeIgniter.git
+[submodule "repos/azure-docs"]
+	path = repos/azure-docs
+	url = https://github.com/MicrosoftDocs/azure-docs.git
+[submodule "repos/freeCodeCamp"]
+	path = repos/freeCodeCamp
+	url = https://github.com/freeCodeCamp/freeCodeCamp.git
+[submodule "repos/gitignore"]
+	path = repos/gitignore
+	url = https://github.com/github/gitignore.git
+[submodule "repos/public-apis"]
+	path = repos/public-apis
+	url = https://github.com/public-apis/public-apis.git
+[submodule "repos/You-Dont-Know-JS"]
+	path = repos/You-Dont-Know-JS
+	url = https://github.com/getify/You-Dont-Know-JS.git
